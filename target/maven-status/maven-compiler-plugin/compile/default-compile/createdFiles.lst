@@ -1,0 +1,6 @@
+com\arif\service\StudentService.class
+com\arif\controller\StudentController.class
+com\arif\daoImpl\StudentDaoImpl.class
+com\arif\model\Student.class
+com\arif\serviceImpl\StudentServiceImpl.class
+com\arif\dao\StudentDAO.class
